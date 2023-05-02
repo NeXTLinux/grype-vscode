@@ -1,0 +1,14 @@
+.github/**
+.vscode/**
+.vscode-test/**
+out/test/**
+src/**
+!src/ui/webview-assets
+.gitignore
+.prettierignore
+vsc-extension-quickstart.md
+**/tsconfig.json
+**/.eslintrc.json
+**/*.map
+**/*.ts
+**/webpack.config.js
